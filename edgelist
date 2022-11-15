@@ -467,7 +467,6 @@ MeKa,DiZe,employment,2016
 MeKa,LaBaWu,employment,2016
 MeKa,DaMeJo,education,
 MeKa,EbKaUn,education,
-
 MeKa,HoUt,education,
 MeKa,HdM,education,
 MeKa,OrGe,preis,2019
@@ -481,7 +480,8 @@ FrKl,BAUNWE,education,2012
 FrKl,HeNaSc,education,2018
 FrKl,GuRe,preis,2021
 FrKl,SaZe,voluntariat,2017
-FrKl,DeJo,preis,2021
+FrKl,DeLoJo,preis,2021
+
 MaKn,u30,nominierung,2021
 MaKn,WIX,employment,2019
 MaKn,HuUnBe,education,2014

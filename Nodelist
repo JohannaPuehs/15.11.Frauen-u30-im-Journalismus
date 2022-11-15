@@ -1,5 +1,3 @@
-.
-
 Id,name,company,location,position
 25MeMa,Top25MedienmacherUnter35,KressPro,,
 25Ne,Die25NewcomerDesJahres,KressPro,,
@@ -110,6 +108,7 @@ EcPr,EckensbergerPreis,EckensbergerStiftung,Braunschweig,
 EKU,EberhardKarlsUniversitaet,,Tuebingen,
 ElGa,ElisabethGamperl,SueddeutscheZeitung,Muenchen,ManagingEditor
 ElHa,ElisaHarlan,BayrischerRundfunk,Muenchen,Redakteurin
+ElHo,ElisavonHof,DerSpiegel,Hamburg,FreieJournalistin
 ElMeSc,ElectronicMediaSchool,,Potsdam,
 ElSc,ElisaSchwarz,SueddeutscheZeitung,Muenchen,Redakteurin
 EmUl,EmilyUlbricht,DeutschlandfunkKultur,Berlin,FreieJournalistin

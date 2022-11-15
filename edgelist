@@ -587,7 +587,6 @@ MiLe,u30,nominierung,2022
 MiLe,GrOnAw,preis,2022
 MiLe,Corr,voluntariat,
 MiLe,OtBrNe,preis,2018
-
 MiLe,HuUnBe,education,
 MiCa,u30,nominierung,2022
 MiCa,MaMo,voluntariat,2018
@@ -598,7 +597,7 @@ MiDa,TeUnHa,engagement,
 MaHa,u30,nominierung,2022
 MaHa,WDR,voluntariat,2022
 MaHa,AmUn,education,
-MaHa,RhFrWiUn,education,
+MaHa,RhFrWiUn,education,!
 MaHa,UnKo,education,
 MaHa,GrOnAw,preis,2018
 MaHa,SmHeAw,preis,2018
@@ -626,17 +625,17 @@ LeSo,HuUnBe,education,2013
 LeSo,FrSc,engagement,
 LuTh,u30,nominierung,2022
 LuTh,DeJoSc,education,2020
-LuTh,RhFrWiUn,education,2014
+LuTh,RhFrWiUn,education,2014!
 LuTh,UnSe,education,2016
 KaWe,u30,nominierung,2022
 KaWe,HeRu,voluntariat,2017
-KaWe,TUDo,education,2021
-KaWe,TUDo,education,2015
+KaWe,TuDo,education,2021
+KaWe,TuDo,education,2015
 KaWe,TeMo,education,2016
 KaWe,ArStBr,voluntariat,
 KaWe,NeDe,engagement,2021
 KaWe,FEJS,engagement,2016
-KaWe,TUDo,engagement,2016
+KaWe,TuDo,engagement,2016
 OlSa,u30,nominierung,2022
 OlSa,UnHa,education,
 OlSa,FrUnBe,education,
@@ -651,6 +650,7 @@ SuHo,LeUn,education,2005
 SuHo,DeFe,preis,2015
 CarSc,u30,nominierung,2015
 CarSc,MeHoHa,education,2006
+
 AnGr,u30,nominierung,2015
 AnGr,DeJoSc,education,2013
 AnGr,LMU,education,2013

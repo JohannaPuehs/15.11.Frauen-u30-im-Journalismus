@@ -198,7 +198,6 @@ AKHi,u30,nominierung,2019
 AKHi,FrUnBe,education,2012
 AKHi,IFN,education,2014
 AKHi,DeTa,volontariat,2016
-
 KaKl,u30,nominierung,2019
 KaKl,Welt,volontariat,2016
 KaKl,FrUnBe,education,2014
@@ -322,7 +321,6 @@ SaJaBh,u30,nominierung,2018
 FaBr,DeJoSc,education,2011
 FaBr,LMU,education,2011
 FaBr,MaaUn,education,2008
-
 FaBr,UnPro,education,2009
 FaBr,u30,nominierung,2018
 StDo,RaRe,voluntariat,2007
@@ -424,7 +422,6 @@ CaDr,StMe,engagement,2019
 CaDr,Welt,voluntariat,2018
 CaDr,DAAD,engagement,2016
 SoGa,u30,nominierung,2021
-
 SoGa,DeSp,employment,2019
 SoGa,Watson,employment,2021
 SoGa,SZ,employment,2017
@@ -548,7 +545,6 @@ AmWe,DiRh,employment,2018
 AmWe,FrIPA,employment,2017
 AmWe,GlMeAw,preis,2022
 AmWe,25Ne,preis,2022
-
 AmWe,EcPr,preis,2021
 AmWe,EuDiPuAw,preis,2021
 JuWe,BaNeNa,employment,2021
@@ -559,6 +555,7 @@ JuWe,FAU,education,2017
 JuWe,KaJo,education,2017
 JuWe,PaWoSePr,preis,2018
 JuWe,FrJo,employment,2015
+
 JuWe,NaPr,preis,2021
 JuWe,DeLoJo,preis,2019
 JuWe,u30,nominierung,2021

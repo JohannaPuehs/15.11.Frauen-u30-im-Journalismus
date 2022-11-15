@@ -650,7 +650,6 @@ SuHo,LeUn,education,2005
 SuHo,DeFe,preis,2015
 CarSc,u30,nominierung,2015
 CarSc,MeHoHa,education,2006
-
 AnGr,u30,nominierung,2015
 AnGr,DeJoSc,education,2013
 AnGr,LMU,education,2013
@@ -677,14 +676,15 @@ ViRe,LMU,education,2012
 ViRe,UnHe,education,2005
 ViRe,UnHe,engagement,2005
 NiSa,u30,nominierung,2015
-NiSa,UnMai,education,2005
+NiSa,UnMa,education,2005
 NiSa,AmUn,education,2009
 NiSa,25MeMa,preis,2018
 NiSa,YoProCo,preis,2014
 NiSa,NeDe,engagement,2012
 AlSc,u30,nominierung,2015
-AlSc,TUDo,education,2006
-AlSc,ZeOn,voluntariat,2009
+AlSc,TuDo,education,2006
+AlSc,DiZe,voluntariat,2009
+
 LiTi,u30,nominierung,2015
 LiTi,DeJoSc,education,2012
 LiTi,UnHa,education,2010

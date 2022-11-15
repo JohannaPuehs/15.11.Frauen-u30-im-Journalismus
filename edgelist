@@ -26,7 +26,7 @@ LaDi,3Sat,employment,
 SoFa,u30,nominierung,2016
 SoFa,DeJoSc,education,
 SoFa,FrJo,employment,
-SoFa,Zeit,employment,
+SoFa,DiZe,employment,
 SoFa,Vice,employment,2016
 GiFo,u30,nominierung,2016
 GiFo,UnEd,education,
@@ -396,7 +396,7 @@ AnBr,UnHe,education,2012
 AnBr,UnPo,education,2017
 AnBr,DuUn,education,2015
 AnBr,HoDi,preis,2015
-AnBr,Zeit,employment,2020
+AnBr,DiZe,employment,2020
 AnBr,BuPoBi,employment,2020
 AnBr,DiZe,employment,2017
 AnBr,DeTa,employment,2012
@@ -432,7 +432,6 @@ SoGa,DeJoSc,education,2018
 SoGa,LMU,education,2018
 SoGa,WeWiUn,education,2017
 SoGa,DiZe,employment,2020
-SoGa,ZeOn,employment,2020
 SoGa,Funk,employment,2020
 LaGo,u30,nominierung,2021
 LaGo,DeBu,employment,2012
@@ -452,7 +451,6 @@ SaHo,u30,nominierung,2021
 SaHo,ZDF,employment,2020
 SaHo,WDR,employment,2020
 SaHo,RaFr,employment,2016
-SaHo,Sp,employment,2019
 SaHo,InMuJoAw,preis,2018
 SaHo,GrOnAw,preis,2018
 SaHo,Funk,employment,2018
@@ -465,10 +463,11 @@ MeKa,Po,employment,2020
 MeKa,GrUJa,employment,2020
 MeKa,De,employment,2019
 MeKa,DeSp,employment,2019
-MeKa,ZeOn,employment,2016
+MeKa,DiZe,employment,2016
 MeKa,LaBaWu,employment,2016
 MeKa,DaMeJo,education,
 MeKa,EbKaUn,education,
+
 MeKa,hu,education,
 MeKa,HdM,education,
 MeKa,OrGe,preis,2019

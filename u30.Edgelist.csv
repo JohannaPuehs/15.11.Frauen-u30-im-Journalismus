@@ -1,5 +1,7 @@
 From,to,year
 LaAh,u30,2016
+LiHe,u30,2015
+LiHe,FrJo,
 LaAh,LBP,2016
 LaAh,SueTa,2015
 AlBa,u30,2016
@@ -330,6 +332,7 @@ StDo,UnBuAi,2015
 StDo,u30,2018
 StDo,GeHoPr,2018
 StDo,ExAwIn,2018
+AnGe,u30,2018
 AnGe,AxSpAk,2017
 AnGe,CIMe,2018
 AnGe,HoMit,
@@ -366,6 +369,7 @@ SaSch,AmUnCa,2010
 SaSch,PrUn,2007
 SaSch,UWCAt,2005
 SaSch,HeRiLa,2011
+LeaSt,u30,2018
 LeaSt,UnStGa,2017
 LeaSt,HaKeSc,2013
 LeaSt,AmUnCa,2010
@@ -492,7 +496,7 @@ HaKn,DeJoSc,2016
 HaKn,LMU,2016
 HaKn,UCL,2014
 HaKn,HeScJoPr,2021
-HaKn,HeScJoPr,2020
+HaKn,HeScNaPr,2020
 SaKo,u30,2021
 SaKo,DiZe,2021
 SaKo,MaPlIn,2018
